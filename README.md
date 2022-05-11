@@ -1,9 +1,5 @@
-# JavaScript Tuts
-# 30 Days of JavaScript
+# JavaScript Tuts by Orion
 
-
-
-# Day 10
 
 
 
